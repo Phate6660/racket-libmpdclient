@@ -2,8 +2,5 @@
 
 #lang info
 
-
 (define collection "libmpdclient")
-
-(define deps
-  '("base"))
+(define deps '("base"))
